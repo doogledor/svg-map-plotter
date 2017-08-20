@@ -1,0 +1,1 @@
+100 pixels = 1 meter
